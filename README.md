@@ -1,2 +1,2 @@
 ## Demo
-https://mohamedelbahdli.github.io/Leon/
+https://mohamedelbahdli.github.io/web-template/
